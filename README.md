@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @officallyariana
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning java and c#
+- 🌱 I’m currently learning html/css/js/sql
 -currently a mis college student 
